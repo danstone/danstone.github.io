@@ -10,4 +10,4 @@ Currently a clojure dev @ mixrad.io
 
 ### Contact me
 
-[dan.stone16321@gmail.com](mailto:dan.stone16321@gmail.com)
+[wotbrew@gmail.com](mailto:wotbrew@gmail.com)
