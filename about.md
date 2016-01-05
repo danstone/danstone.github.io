@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Keen on functional programming, munging data, writing and playing games.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Currently a clojure dev @ mixrad.io
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dan.stone16321@gmail.com](mailto:dan.stone16321@gmail.com)
